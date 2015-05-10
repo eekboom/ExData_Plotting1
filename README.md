@@ -1,3 +1,16 @@
+## Solution
+
+This is my solution for the assignment that is specified after the break.
+
+To run the code:
+
+1. The code needs the "lubridate" package installed.
+2. Execute plot?.R to create a plot, i.e. plot2.R for the second plot
+3. The common task of downloading, extracting, subsetting, and cleaning up the data is 
+   in "subset.R" which is automatically sourced by each plot?.R file.
+
+<hr>
+
 ## Introduction
 
 This assignment uses data from
